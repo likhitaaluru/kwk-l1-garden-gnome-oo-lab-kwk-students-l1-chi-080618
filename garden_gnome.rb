@@ -9,6 +9,5 @@ class GardenGnome
   def gnaw
     returns "Gnawing on a tree!"
   end
-end
-
 gnaw
+end
