@@ -8,4 +8,4 @@ class GardenGnome
     @hat_color=hat_color
   end
 end
-red=GardenGnome.new("red")
+red.hat_color="red"
