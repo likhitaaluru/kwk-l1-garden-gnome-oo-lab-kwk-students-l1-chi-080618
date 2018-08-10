@@ -12,4 +12,8 @@ class GardenGnome
     return "Gnawing on a tree!!!"
   end
   
+  def shout
+    return "GNARLY!!!"
+  end
+  
 end
